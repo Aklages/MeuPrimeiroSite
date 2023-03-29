@@ -1,0 +1,76 @@
+*{
+	font-family: 'Red Hat Mono', monospace;
+	font-size:1.25rem;
+	text-align: center;
+}
+
+body{
+	align-items: center;
+	margin:0px;
+	background-color: aliceblue;
+}
+
+footer{
+	background-color: #640101;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+#txt{
+	font-size:1.25rem;
+	width:800px;
+	height:40px;
+	border-radius: 0px 15px 15px 0px;
+	border: none;
+	text-align: left;
+}
+
+#footer{
+	margin: 0rem;
+	padding: 0.5rem;
+}
+
+#header{
+	background-color: #B20000;
+	padding-right: 0.75rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 7rem;
+}
+
+.imgsearch{
+	background-color: white;
+	float: left;
+	height: 2.1rem;
+	border-radius: 10px 0px 0px 10px;
+}
+
+.buttons{
+	font-size:2rem;
+	transition: 0.4s;
+}
+
+.buttons:hover{
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	text-decoration: underline;
+}
+
+.buttons:active{
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
+}
+
+.produtos{
+	transition: ease-in-out .4s;
+}
+
+.produtos:hover{
+	transform: scale(1.2);
+}
+
+::-webkit-scrollbar{
+	display: none;
+}

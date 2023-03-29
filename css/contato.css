@@ -1,0 +1,11 @@
+#redes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.redes{
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}

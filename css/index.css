@@ -1,0 +1,21 @@
+#produtos{
+    margin-left: 4rem;
+    margin-right: 4rem;
+    display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+#titulo{
+	font-size: 3rem;
+    padding: 0.5rem;
+}
+
+#banner{
+    width: auto;
+    height: fit-content;
+}
+
+.imgbanner{
+    border: solid red 1.6rem;
+}

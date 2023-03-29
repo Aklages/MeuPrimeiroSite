@@ -1,0 +1,82 @@
+h3{
+  margin: 1rem;
+  font-size: 3rem;
+  text-align: left;
+  width: 95%;
+}
+
+p{
+  margin: 0rem;
+  font-size: 1.5rem;
+}
+
+#h1{
+  margin: 0rem;
+  margin-top: 1rem;
+  font-size: 3rem;
+}
+
+#coluna{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3rem;
+}
+
+#centro{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 3rem;
+  padding-bottom: 4rem;
+}
+
+#flex{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+#itens{
+  margin: 0rem;
+  margin-bottom: 1.3rem;
+}
+
+#carrinho{
+  width: 85%;
+  background: rgba(255, 100, 100, 0.53);
+  height: 15rem;
+  text-align: center;
+  border: solid black 0.125rem;
+}
+
+#vazio{
+  margin: 10%;
+}
+
+#CEP{
+  width: 7rem;
+  text-align: left;
+  border: solid black 0.125rem;
+}
+
+#calculo{
+  float: left;
+}
+
+.geral{
+  width: 95%;
+  background-color: #D70000;
+  align-items: center;
+}
+
+.entrega{
+  margin: 0rem;
+  font-size: 1.5rem;
+}
+
+.espaco{
+  margin-right: 1rem;
+  margin-left: 1rem;
+}
